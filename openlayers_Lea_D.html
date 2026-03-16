@@ -1,0 +1,249 @@
+<html>
+ <head>
+   <title>Carte du réseau d’institutions ayant accueilli des orphelin.es de Duplessis au Québec de 1935 à 1964</title>
+     <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@v10.1.0/ol.css">
+   <script src="https://cdn.jsdelivr.net/npm/ol@v10.1.0/dist/ol.js"></script>
+   <!-- Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&family=Josefin+Sans:wght@400&display=swap" rel="stylesheet">
+
+<style>
+       body {
+         margin: 10px;
+         padding: 10px;
+       }
+       #map {
+         position: relative;
+         top: 0;
+         bottom: 0;
+         width: 100%;
+       }
+/* Popup styles */
+    #popup {
+      position: absolute;
+      background: #faf9f8ff;
+      padding: 8px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+      width: 500px;
+      font-family: 'Gill Sans MT', sans-serif;
+      font-size: 13px;
+      line-height: 1.4;
+      text-align: left;
+      z-index: 2000; /* above sidebar */
+    }
+
+    /* Legend boxes */
+    .layer-box {
+      width: 20px;
+      height: 20px;
+      display: inline-block;
+      cursor: pointer;
+      border: 2px solid whitesmoke;
+      margin-right: 10px;
+      vertical-align: middle;
+    }
+     </style>
+
+ </head>
+  <body>
+     <div id="map"></div>
+     <script>
+      // Create the floating sidebar via JS
+    // ----------------------------
+    const sidebar = document.createElement('div');
+    sidebar.id = 'sidebar';
+    sidebar.style.position = 'absolute';
+    sidebar.style.top = '50px';
+    sidebar.style.left = '55px';
+    sidebar.style.width = '500px';
+    sidebar.style.padding = '15px';
+    sidebar.style.background = '#F1F2F0';
+    sidebar.style.borderRadius = '8px';
+    sidebar.style.boxShadow = '0 2px 6px rgba(0,0,0,0.3)';
+    sidebar.style.fontSize = '14px';
+    sidebar.style.zIndex = '1000';
+
+    // Add content
+    sidebar.innerHTML = `
+      <h2 style="text-align:center; margin-top:0; font-size:20px;color:#313b3f;font-family:'Ubuntu',sans-serif;font-weight:500;">Carte du réseau d’institutions ayant accueilli des orphelin.es de Duplessis (1935-1964)</h2>
+      <p style="line-height:1.35;color:#313b3f;font-family:'Josefin Sans',sans-serif;font-weight:400;">Entre les années 1930 et 1960, <strong>plusieurs milliers d’enfants québécois furent injustement désignés et traités comme des patients psychiatriques</strong>. Privé.es d’éducation et isolé.es de la société, <strong>les orphelin.es de Duplessis ont été soumis à du travail forcé, à des expérimentations médicales et à des abus physiques et sexuels</strong>, ce qui a rendu leur intégration dans la société à l’âge adulte particulièrement difficile.</p>
+      <p style="line-height:1.35;color:#313b3f;font-family:'Josefin Sans',sans-serif;font-weight:400;">Cette carte montre les <strong>institutions  identifiées dans les programmes d’indemnisation du gouvernement du Québec</strong> (PNROOD-1 et PNROOD-2) mis en place après la mobilisation des survivants dans les années 1990. Ces établissements étaient financés par l’État, administrés par des congrégations religieuses et supervisés par des médecins, psychiatres ou autorités éducatives provinciales. Ensemble, ils révèlent <strong>l’ampleur du réseau institutionnel où ces enfants ont été placés au Québec, qui faisait partie d’un système plus vaste d’institutionnalisation et de violence envers les enfants au Canada,</strong> touchant de manière disproportionnée les enfants autochtones.</p>
+      <p style="line-height:1.35;color:#313b3f;font-family:'Josefin Sans',sans-serif;font-weight:400;">Si le gouvernement du Québec a présenté des excuses officielles en 1999, les congrégations religieuses qui ont dirigés et travaillé dans ces institutions n’ont jamais présenté d’excuses publiques.<strong> Aucun site commémoratif n’a été érigé dans ces établissements pour rappeler ou témoigner des horreurs qui s’y sont déroulées</strong>.</p>
+      <p style="line-height:1.35;color:#313b3f;font-family:'Josefin Sans',sans-serif;font-weight:400;"><strong>Cliquez sur un point</strong> pour afficher les informations sur une institution. La légende permet d’afficher ou masquer les établissements reconnus dans les deux programmes de réconciliation.</p>
+
+    `;
+  document.body.appendChild(sidebar);
+    
+// Add legend with red/blue boxes
+    // ----------------------------
+    const legendContainer = document.createElement('div');
+    legendContainer.id = 'legend';
+    legendContainer.style.marginTop = '10px';
+    legendContainer.innerHTML = `
+      <h3 style="margin-bottom:5px;color: #313b3f;font-family:'Josefin Sans',sans-serif;font-weight:400;">Légende</h3>
+      <div><div id="redLayer" class="layer-box" style="background:#EA7763;"></div><span style="color: #313b3f;font-family:'Josefin Sans',sans-serif;font-weight:400;">Hôpitaux psychiatriques nommés dans le premier Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-1) en 2001</span></div>
+      <p></p>
+      <div style="margin-top:5px;"><div id="blueLayer" class="layer-box" style="background:#32213A;"></div><span style="color: #313b3f;font-family:'Josefin Sans',sans-serif;font-weight:400;">Institutions ajoutées dans le deuxième Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2) en 2007</span></div>
+    `;
+    sidebar.appendChild(legendContainer);
+
+
+     const key = 'skHYJ431Tvy5IEy86Yma';
+     const source = new ol.source.TileJSON({
+     url: `https://api.maptiler.com/maps/dataviz-v4/tiles.json?key=${key}`,
+     tileSize: 512,
+     crossOrigin: 'anonymous'
+     });
+
+     const map = new ol.Map({
+       layers: [
+         new ol.layer.Tile({
+           source: source
+         })
+       ],
+       target: 'map',
+       view: new ol.View({
+         constrainResolution: true,
+         center: ol.proj.fromLonLat([-74.53125000000001, 46.524786518842156]),
+         zoom:7
+       })
+     });
+     const my_points = new ol.layer.Vector({
+       source: new ol.source.Vector({
+         url: 'https://api.maptiler.com/data/019ce1fa-0b52-7943-bc4c-f988d6af8658/features.json?key=skHYJ431Tvy5IEy86Yma',
+         format: new ol.format.GeoJSON({
+           featureProjection: 'EPSG:3857'
+         })
+       }),
+       style: new ol.style.Style({
+         image: new ol.style.Circle({
+           radius: 6,
+           fill: new ol.style.Fill({ color: '#EA7763' }),
+           stroke: new ol.style.Stroke({ color: 'white', width: 2 })
+         })
+       })
+     });
+       const secondLayer = new ol.layer.Vector({
+         source: new ol.source.Vector({
+          url: 'https://api.maptiler.com/data/019ce205-a238-7fc2-b414-1bf41e5c1ddf/features.json?key=skHYJ431Tvy5IEy86Yma',
+          format: new ol.format.GeoJSON({
+            featureProjection: 'EPSG:3857'
+          })
+        }),
+        style: new ol.style.Style({
+          image: new ol.style.Circle({
+            radius:6,
+            fill: new ol.style.Fill({color:'#32213A'}),
+            stroke: new ol.style.Stroke({color:'white',width:2})
+          })
+        })
+      });
+     map.addLayer(my_points);
+     map.addLayer(secondLayer); 
+     
+    // Clickable boxes toggle layers
+    // ----------------------------
+    let redVisible = true;
+    let blueVisible = true;
+
+    document.getElementById('redLayer').addEventListener('click', function() {
+      redVisible = !redVisible;
+      my_points.setVisible(redVisible);
+      this.style.opacity = redVisible ? '1' : '0.4'; // dim box if layer hidden
+    });
+
+    document.getElementById('blueLayer').addEventListener('click', function() {
+      blueVisible = !blueVisible;
+      secondLayer.setVisible(blueVisible);
+      this.style.opacity = blueVisible ? '1' : '0.4';
+    });
+
+     const popupContainer = document.createElement('div');
+ popupContainer.id = 'popup';
+ popupContainer.style.position = 'absolute';
+ popupContainer.style.background = '#F1F2F0';
+ popupContainer.style.color = '#46555a';
+ popupContainer.style.padding = '6px';
+ popupContainer.style.borderRadius = '6px';
+ popupContainer.style.boxShadow = '0 2px 6px rgba(0,0,0,0.3)';
+ popupContainer.style.width = '500px';
+ popupContainer.style.fontFamily = 'Gill Sans MT, sans-serif';
+ popupContainer.style.fontSize = '13px';
+ popupContainer.style.lineHeight = '1.1';
+ popupContainer.style.textAlign = 'left';
+
+document.body.appendChild(popupContainer);
+
+ const popup = new ol.Overlay({
+   element: popupContainer,
+   autoPan: true,
+   autoPanAnimation: { duration: 250 }
+ });
+ map.addOverlay(popup);
+
+ // Handle map clicks
+ map.on('singleclick', function (evt) {
+   const feature = map.forEachFeatureAtPixel(evt.pixel, f => f);
+
+   if (feature) {
+     // Build popup HTML
+     const notes = feature.get('notes');
+     const content = `
+        <h3 style="text-align:center; margin-top:3px; margin-bottom:4px;">${feature.get('nom')}</h3>
+        <p style="margin:3px 0;"><strong>type:</strong> ${feature.get('type')}</p>
+        <p style="margin:3px 0;"><strong>dirigé par:</strong> ${feature.get('dirigé par')}</p>
+        <p style="margin:3px 0;"><strong>date:</strong> ${feature.get('date')}</p>
+        ${notes ? `<p><strong>Notes:</strong> ${notes}</p>` : ""}
+        <p style="margin:3px 0;"><strong>statut:</strong> ${feature.get('statut')}</p>
+        <p style="margin:3px 0;"><strong>source:</strong> ${feature.get('source')}</p>
+  `;
+
+     popupContainer.innerHTML = content;
+
+     // Position popup at feature
+     popup.setPosition(evt.coordinate);
+   } else {
+     popup.setPosition(undefined); // hide popup if click elsewhere
+   }
+ });
+
+ // Change cursor when hovering over features
+ map.on('pointermove', function (evt) {
+   const hit = map.hasFeatureAtPixel(evt.pixel);
+   map.getTargetElement().style.cursor = hit ? 'pointer' : '';
+ });
+
+
+// ---------------------------
+// WAIT UNTIL BOTH LAYERS ARE READY
+// ---------------------------
+let layer1Ready = false;
+let layer2Ready = false;
+
+function tryZoom() {
+  if (layer1Ready && layer2Ready) {
+    zoomToAllLayers();
+  }
+}
+
+// Layer 1
+my_points.getSource().once('change', function () {
+  if (my_points.getSource().getState() === 'ready') {
+    layer1Ready = true;
+    tryZoom();
+  }
+});
+
+// Layer 2
+secondLayer.getSource().once('change', function () {
+  if (secondLayer.getSource().getState() === 'ready') {
+    layer2Ready = true;
+    tryZoom();
+  }
+});
+   </script>
+
+ </body>
+ </html>

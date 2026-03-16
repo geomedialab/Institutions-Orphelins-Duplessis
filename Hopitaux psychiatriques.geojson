@@ -1,0 +1,305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.571811,
+          46.1136244
+        ]
+      },
+      "properties": {
+        "nom": "Institut Mont Villeneuve/l'hôpital Saint-Julien de Saint-Ferdinand d'Halifax",
+        "type": "Orphelinat/Hôpital psychiatrique",
+        "dirigé par": "Soeurs de la Charité de Québec/ Gouvernement du Quebec",
+        "date": "1870-2003",
+        "notes": "",
+        "statut": "Démoli en 2012",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-1, 2001)"
+      },
+      "id": "jVOeU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4560318,
+          46.0391546
+        ]
+      },
+      "properties": {
+        "nom": "Hôpital St-Charles",
+        "type": "Hôpital psychiatrique",
+        "dirigé par": "Les Carmélites missionnaires espagnoles",
+        "date": "1959-",
+        "notes": "",
+        "statut": "Aujourd'hui l'Hôpital Centre Hôpitalier régional de Lanaudière (où Joyce Echaquan, une femme Atikamekw, a été admise et est décédée en 2020)",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-1, 2001)"
+      },
+      "id": "zcjuo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5121094,
+          47.4397875
+        ]
+      },
+      "properties": {
+        "nom": "Sainte-Anne de Baie Saint-Paul",
+        "type": "Hôpital psychiatrique",
+        "dirigé par": "Petites Franciscaines de Marie",
+        "date": "1936-1973",
+        "notes": "",
+        "statut": "Toujours l' Hôpital Baie-Saint-Paul",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-1, 2001)"
+      },
+      "id": "hL6PX"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6113568,
+          45.6230529
+        ]
+      },
+      "properties": {
+        "nom": "Hôpital Mont-Providence/  L'Institut Médico-Pédagogique Émilie Tavernier",
+        "type": "Hôpital psychiatrique",
+        "dirigé par": "Soeurs de la Providence",
+        "date": "1949-1969 ",
+        "notes": "D'abord un orhelinat, le Mont - Providence se convertit en institutit médico-pédagogique en 1950. ",
+        "statut": "Le site a plusieurs usages. Une partie appartient au CIUSSS du Nord-de-l’Île-de-Montréal. Le reste du site comprend une résidence pour aînés, une garderie et des installations sportives.",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-1, 2001)"
+      },
+      "id": "EuKEa"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2197672,
+          46.8472649
+        ]
+      },
+      "properties": {
+        "nom": "Hôpital Saint-Michel-Archange ",
+        "type": "Hôpital psychiatrique",
+        "dirigé par": "les Soeurs de la Charité de Québec",
+        "date": "1893-1999",
+        "notes": " Sont inclus :Pavillion Dufrost, Pavillion La Jemmrais, Clinique Roy-Rousseau, Sanatorium Mastai. \n\n1976 – L’hôpital est renommé  Centre Hôpitalier Robert-Giffard\n1997 – Le gouvernement prend en charge l’établissement\n2009 L’établissement est officiellement renommé Institut universitaire en santé mentale de Québec                                \n\n\n",
+        "statut": "Institut universitaire en santé mentale de Québec",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-1, 2001)"
+      },
+      "id": "AySE5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2191213,
+          48.5073049
+        ]
+      },
+      "properties": {
+        "nom": "Hôpital Sainte-Elisabeth de Roberval",
+        "type": "Hôpital psychiatrique",
+        "dirigé par": "Petites Soeurs Franciscaines de Marie",
+        "date": "1952-1964",
+        "notes": "Transféré au gouvernement du Québec en 1973, il devient le Centre psychiatrique de Roberval (CPR), un centre de soins pour personnes ayant une déficience intellectuelle.",
+        "statut": "Démoli en 2020",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-1, 2001)"
+      },
+      "id": "p9aMf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8844597,
+          46.4205962
+        ]
+      },
+      "properties": {
+        "nom": "Hopital des Laurentides de l'Annonciation",
+        "type": "Hôpital psychiatrique",
+        "dirigé par": "Frères de la Charité",
+        "date": "1961-1964",
+        "notes": "Cet hôpital psychiatrique a été créé pour désengorger l’Hôpital Saint-Jean-de-Dieu à Montréal et l’Hôpital Saint-Michel-Archange à Québec.",
+        "statut": "Fonctionne toujours sous le nom d’Hôpital de Rivière-Rouge.",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-1, 2001)"
+      },
+      "id": "zPAtt"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7293281,
+          45.5286625
+        ]
+      },
+      "properties": {
+        "nom": "Institut Albert-Prévost",
+        "type": "Hôpital psychiatrique",
+        "dirigé par": "Dr Prévost/Dr Edgar Langlois/Mme Charlotte Tassé",
+        "date": "1919-1972",
+        "notes": "",
+        "statut": "Devenu l'Hôpital du Sacré-Coeur",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-1, 2001)"
+      },
+      "id": "PYiy6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5845469,
+          45.4421125
+        ]
+      },
+      "properties": {
+        "nom": "Douglas Mental Health Institute/Verdun Protestant Hôpital\n",
+        "type": "Hôpital psychiatrique",
+        "dirigé par": "McGill University ",
+        "date": "1890-",
+        "notes": "Pavillions inclus: Pavillion Burgess, Pavillion Ouest, Pavillion Porteous, Pavillion Perry, Pavillion Nort-ouest, After care Clinique, Half Way home.",
+        "statut": "Fonctionne toujours",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-1, 2001)"
+      },
+      "id": "sdXRm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5357621,
+          45.600462
+        ]
+      },
+      "properties": {
+        "nom": "Retraite Saint-Benoit de Montréal / asile Saint-Benoit-Joseph-Labre",
+        "type": "Hôpital psychiatrique",
+        "dirigé par": "Frères de la Charité",
+        "date": "1942-1964",
+        "notes": "",
+        "statut": "En 1984, il est devenu une résidence pour personnes âgées, le Centre d’hébergement Pierre-Joseph-Triest.",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-1, 2001)"
+      },
+      "id": "Sj4Hp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5821094,
+          45.5059875
+        ]
+      },
+      "properties": {
+        "nom": "Allan Memorial Institute",
+        "type": "Hôpital psychiatrique",
+        "dirigé par": "McGill University ",
+        "date": "1950-1965",
+        "notes": "",
+        "statut": "En cours de réaménagement, le site fait partie du projet New Vic, qui vise à créer un nouveau pôle de recherche et d’apprentissage pour McGill.",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-1, 2001)"
+      },
+      "id": "RiWCz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6859448,
+          45.545142
+        ]
+      },
+      "properties": {
+        "nom": "Hôpital psychiatrique de Bordeaux ",
+        "type": "Hôpital psychiatrique",
+        "dirigé par": "Government of Quebec",
+        "date": "1927-1964",
+        "notes": "Il accueillait des patients psychiatriques violents ou criminalisés provenant d’hôpitaux partout au Québec. En 1964, les patients ont été transférés au nouvellement construit Institut Philippe-Pinel de Montréal.",
+        "statut": "Toujours en activité comme établissement de détention, l’Établissement de détention Montréal–Bordeaux. Le gouvernement du Québec prévoit construire une deuxième prison à côté",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-1, 2001)"
+      },
+      "id": "sXZmv"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9493906,
+          45.4125625
+        ]
+      },
+      "properties": {
+        "nom": "Sainte Anne de Bellevue Hôpital",
+        "type": "Hôpital psychiatrique",
+        "dirigé par": "McGill University / Gouvernement fédéral",
+        "date": "1917-",
+        "notes": "",
+        "statut": "Fonctionne toujours",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-1, 2001)"
+      },
+      "id": "3taD0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3103281,
+          45.4440625
+        ]
+      },
+      "properties": {
+        "nom": "Institut Anbar",
+        "type": "Hôpital psychiatrique",
+        "dirigé par": "Institut Anbar Inc",
+        "date": "1968 -1980",
+        "notes": "",
+        "statut": "Géré par le secteur privé jusqu’en 1979, il est alors devenu propriété du gouvernement du Québec et a été renommé Centre d’Accueil Anne-Le-Seigneur.",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-1, 2001)"
+      },
+      "id": "TbKrB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5292611,
+          45.5887692
+        ]
+      },
+      "properties": {
+        "nom": "Hôpital Saint-Jean-de-Dieu",
+        "type": "Hôpital psychiatrique",
+        "dirigé par": "Soeurs de la Providence",
+        "date": "1846-1976",
+        "notes": " Sont inclus :\n\nL’Hospice Saint-Jean-de-Dieu (14 août 1875)\n\nL’Hôpital Saint-Jean-de-Dieu (9 avril 1901)\n\nLa Résidence Sainte-Thérèse (du 5 novembre 1875 au 31 mars 1966)\n\nLe Sanatorium Bourget (15 octobre 1928)\n\nLe Pavillon Notre-Dame-des-Sept-Douleurs (2 février 1935)\n\nLe Pavillon Notre-Dame-du-Rosaire (30 juin 1936)\n\nLa Résidence Saint-Joseph (du 18 août 1963 au 28 juin 1976)\n\nL’Infirmerie de la R. Saint-Joseph (du 29 décembre 1963 au 28 juin 1976)\n\nL’institution est transférée au gouvernement du Québec en 1976. Elle porte maintenant le nom Hôpital Louis-H. Lafontaine.",
+        "statut": "Le site demeure un hôpital psychiatrique — l’Institut universitaire en santé mentale de Montréal (IUSMM) — ainsi qu’un espace comprenant des locaux commerciaux et un entrepôt de la SAAQ.\n",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-1, 2001)"
+      },
+      "id": "e1QJr"
+    }
+  ]
+}

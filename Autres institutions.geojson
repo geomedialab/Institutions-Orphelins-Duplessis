@@ -1,0 +1,1665 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5787486,
+          45.4830932
+        ]
+      },
+      "properties": {
+        "nom": "Hospice Sainte-Cunégonde",
+        "type": "Hospice/Orphelinat",
+        "dirigé par": "Soeurs Grises",
+        "date": "1889-1951",
+        "notes": "",
+        "statut": "Le bâtiment a été détruit par un incendie en 1951. Aujourd'hui le site est occupé  par des appartements.",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "kV0Qn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5096479,
+          45.6710556
+        ]
+      },
+      "properties": {
+        "nom": "Crèche Saint-François d'Assise",
+        "type": "Orphelinat/Crèche",
+        "dirigé par": "Filles consolatrice du Divin Coeur",
+        "date": "1934-1974",
+        "notes": "",
+        "statut": "En 1975, le bâtiment a été acheté par la Direction de la protection de l’enfance (DPJ) et transformé en centre pour adolescents « Le Mainbourg ». Depuis 2004, le bâtiment a été reconverti en centre communautaire.",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "OoAyK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5051094,
+          46.3981375
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat agricole Sainte-Germaine de Dorchester (Institut La Mennais)",
+        "type": "Orphelinat/École agricole",
+        "dirigé par": "Frères de l'Instruction chrétienne",
+        "date": "1931-1971",
+        "notes": "",
+        "statut": "Une grande partie de l’établissement a été détruit en 1984. Propriété de la Communauté des Filles de Marie, il est maintenant un centre pour retraités et funéraire appelé \"Virgo Fidelis\"",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "MOHdr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9345363,
+          45.0030162
+        ]
+      },
+      "properties": {
+        "nom": "Institut Doréa de Franklin Centre",
+        "type": "Orphelinat",
+        "dirigé par": "Gouvernement du Québec / Compagnons de Montréal, fondés par le Père Roger Roy",
+        "date": "1954-1995",
+        "notes": "",
+        "statut": "Démoli en 2018",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "Z74ZK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3381065,
+          45.8897629
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat de Monfort / Collège Lisbourg de Monfort/ Orphelinat Notre-Dame des Monts/ École artisanale Notre-Dame des Monts",
+        "type": "Orphelinat/École industrielle",
+        "dirigé par": "Pères missionnaires Montfortains de la Compagnie de Marie/Filles de la sagesse ",
+        "date": "1880-1960",
+        "notes": "",
+        "statut": "Démoli en 1960",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "e9f3f"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2318623,
+          46.8098195
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat Saint-Sauveur",
+        "type": "Orphelinat",
+        "dirigé par": "Soeurs de la Charité de Québec",
+        "date": "1907-1968",
+        "notes": "",
+        "statut": "Sanatorium ajouté en 1922. Le bâtiment est maintenant le Centre d'hébergement Notre-Dame-de-Lourdes (CHSLD)",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "gotir"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2197298,
+          46.856836
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat d’Youville (Mont d’Youville)",
+        "type": "Orphelinat",
+        "dirigé par": "Soeurs de la Charité de Québec",
+        "date": "1925-1966",
+        "notes": "Des enfants y ont été transférés depuis l’Orphelinat Nazareth.",
+        "statut": "Le bâtiment est maintenant le CIUSS de la Capitale-Nationale ",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "SSKiM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2308727,
+          46.8045554
+        ]
+      },
+      "properties": {
+        "nom": "Finlay Home/the Church of England Male Orphan Asylum",
+        "type": "Hospice/Orphelinat",
+        "dirigé par": "Anglican church",
+        "date": "1829-1968",
+        "notes": "",
+        "statut": "Démoli en 1968",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "4DuHV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5085269,
+          45.5392167
+        ]
+      },
+      "properties": {
+        "nom": "Hospice (Foyer) Saint-Antoine",
+        "type": "Orphelinat/Hospice",
+        "dirigé par": "Soeurs Grises",
+        "date": "1876-1992",
+        "notes": "",
+        "statut": "Les Sœurs Grises ont remis le bâtiment en 1992 à une organisation axée sur les arts, la santé et le bien-être, qui a ensuite changé de nom pour devenir le Foyer Saint-Antoine",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "zTFwA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0894219,
+          46.8274875
+        ]
+      },
+      "properties": {
+        "nom": "Institut Monseigneur Guay de Lauzon",
+        "type": "Hôpital/Orphelinat",
+        "dirigé par": "Government of Quebec/ Soeurs du Bon-Conseil",
+        "date": "1905-1989",
+        "notes": "",
+        "statut": "L’hôpital devient un orphelinat en 1951, puis est acquis par la Fraternité Sacerdotale Saint-Pie X en 1989. Il abrite aujourd’hui l’École Sainte-Famille. Un cimetière se trouve à l’arrière du bâtiment",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "W54Ti"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0198119,
+          48.2356422
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat Saint-Michel de Rouyn (Accueil Saint-Michel)",
+        "type": "Orphelinat",
+        "dirigé par": "Soeurs de Notre-Dame-Auxiliatrice",
+        "date": "1938-1954",
+        "notes": "En 1954, l’orphelinat a fusionné avec l’Orphelinat Notre-Dame-du-Sourire.",
+        "statut": "Le bâtiment  est divisé entre Tribunal administratif du logement, une garderie et une résidence pour personnes âgées ",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "EnW4d"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6222408,
+          45.4799355
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat Catholique de Montréal (Villa de Notre-Dame-de-Grâce)",
+        "type": "Orphelinat",
+        "dirigé par": "Soeurs Grises",
+        "date": "1917-1999",
+        "notes": "Des enfants y ont été transférés depuis l’Orphelinat Nazareth. ",
+        "statut": "Le bâtiment est maintenant le  CIUSS du Centre-Sud-de-l'Île-de-Montréal ",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "Ie2G3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6380343,
+          45.9741125
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat Notre-Dame de la Merci d'Huberdeau",
+        "type": "Orphelinat",
+        "dirigé par": "Government of Quebec/  Frères de la Miséricorde",
+        "date": "1924-1975",
+        "notes": "",
+        "statut": "Le bâtiment est maintenant le Centre Jeunesse des Laurentides.",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "QEjLB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.36369,
+          46.046151
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat-Pensionnat de Black Lake (Hospice Saint-Joseph)",
+        "type": "Orphelinat",
+        "dirigé par": "Soeurs de la Charité de St-Louis",
+        "date": "1904-1972",
+        "notes": "",
+        "statut": "Détruit et réconstruit en en 1969. Le bâtiment est maintenant une école secondaire.",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "oGGL6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0062733,
+          45.7831337
+        ]
+      },
+      "properties": {
+        "nom": "Hospice Saint-Jérôme",
+        "type": "Hospice/Orphelinat",
+        "dirigé par": "Soeurs Grises d'Ottawa",
+        "date": "1932-1973",
+        "notes": "",
+        "statut": "Le bâtiment est maintenant un centre d'hébergement et de soins de longue durée (CHSLD)",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "n4c3Z"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2211303,
+          48.5064163
+        ]
+      },
+      "properties": {
+        "nom": "Institut La Chesnaie/Institut Lachenaie",
+        "type": "Orphelinat/Centre de redressement pour mineurs en difficulté",
+        "dirigé par": "Soeurs de la Charité de Québec",
+        "date": "1961-1986",
+        "notes": "",
+        "statut": "Le bâtiment est maintenant le CIUSSS du Saguenay Lac-Saint-Jean",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "zDwH4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7856203,
+          47.4284856
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat Sacré-Coeur de La Tuque/Hôpital Saint-Joseph",
+        "type": "Hôpital/Orphelinat",
+        "dirigé par": "Soeurs Grises",
+        "date": "1918-1993",
+        "notes": "",
+        "statut": "Le bâtiment est maintenant  un hôpital  multiservices: Centres d'hébergement (CHSLD), Hôpitaux et urgences, CLSC, Centres de réadaptation en déficience intellectuelle et en trouble du spectre de l’autisme, Centres de réadaptation en dépendance, Points de service locaux",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "RCkXv"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5543962,
+          46.9822793
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat de Montmagny (Hospice Saint-Thomas de Montmagny)",
+        "type": "Hospice/Orphelinat",
+        "dirigé par": "Soeurs de la Charité de Québec",
+        "date": "1885 -1963",
+        "notes": "",
+        "statut": "Le bâtiment est maintenant un centre d'hébergement et de soins de longue durée (CHSLD)",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "sFL1l"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5452031,
+          47.8352625
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat du Sacré-Coeur",
+        "type": "Orphelinat",
+        "dirigé par": "Soeurs du Bon-Pasteur",
+        "date": "1940-1970",
+        "notes": "",
+        "statut": "Démolition prévue pour construire des condos de luxe",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "rcuou"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6792021,
+          46.283449
+        ]
+      },
+      "properties": {
+        "nom": "Ville Joie du Rosaire (Orphelinat du Saint-Rosaire)",
+        "type": "Orphelinat",
+        "dirigé par": "Soeurs Dominicaines du Rosaire",
+        "date": "1950-1992",
+        "notes": "Accusations publiques d’agression sexuelle et de violence en 2023.",
+        "statut": "Une partie de son infrastructure sert aujourd’hui un centre de protection et de réadaptation pour les jeunes en difficulté d’adaptation “Ville‑Joie”, géré par le CIUSSS Mauricie–Centre-du-Québec. Une autre partie fonctionne comme une base de plein air (“Plein Air Ville‑Joie”), qui offre des activités de camp, des chalets, des classes nature, etc. ",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "e90Xp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.1562152,
+          47.4754984
+        ]
+      },
+      "properties": {
+        "nom": "Collège de Sully (Maison Notre-Dame-des-Champs)",
+        "type": "Centre de redressement pour mineurs en difficulté",
+        "dirigé par": "Frères de Notre-Dame-des-Champs/Clercs de Saint-Viateur",
+        "date": "1950-1973",
+        "notes": "Accusations publiques d’agression sexuelle et de violence en 2023.",
+        "statut": "Le bâtiment est maintenant une école secondaire.",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "UcDcJ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6463132,
+          45.5530628
+        ]
+      },
+      "properties": {
+        "nom": "Institut Dominique-Savio",
+        "type": "Centre de redressement pour mineurs en difficulté/École industrielle",
+        "dirigé par": "Soeurs Grises",
+        "date": "1962-",
+        "notes": "Action collective initiée en 2022 pour agressions sexuelles.",
+        "statut": "Encore en activité. Aujourd'hui le Centre de réadaptation pour les jeunes en difficulté d'adaptation Dominique-Savio du Centre intégré universitaire de santé et de services sociaux (CIUSSS) du Centre-Sud-de-l'Ile-de-Montréal.",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "OSQoZ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56668,
+          45.50854
+        ]
+      },
+      "properties": {
+        "nom": "Institut Dominique-Savio / Les Buissonets",
+        "type": "Orphelinat",
+        "dirigé par": "Soeurs Grises",
+        "date": "1950 -1962 ",
+        "notes": "1950 à 1962 : 171, rue Sainte-Catherine Ouest\n1962 : 9335, rue Saint-Hubert",
+        "statut": "Le bâtiment et sa chapelle ont été démolis en 1960 dans le cadre du développement urbain du projet de la Place des Arts à Montréal",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "RCxYT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4393704,
+          45.6838022
+        ]
+      },
+      "properties": {
+        "nom": "Hospice-Orphelinat de Lajemmerais",
+        "type": "Hospice/Orphelinat",
+        "dirigé par": "Soeurs Grises",
+        "date": "1880-1972",
+        "notes": "",
+        "statut": "Le bâtiment a été démoli au printemps 1972 pour laisser place au Foyer Lajemmerais, aujourd’hui un un centre d'hébergement et de soins de longue durée (CHSLD)",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "393bG"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0187922,
+          45.3141974
+        ]
+      },
+      "properties": {
+        "nom": "Centre Notre-Dame-de-la-Santé / Institut Val-du-Lac",
+        "type": "Centre de redressement pour mineurs en difficulté",
+        "dirigé par": "Government of Quebec/la Société de Réhabilitation de Sherbrooke/Dominicaines des Saints-Anges Gardiens",
+        "date": "1944-1972",
+        "notes": "",
+        "statut": "L’institution est toujours en activité. Son objectif est la réadaptation des jeunes présentant une déficience intellectuelle légère et des troubles du comportement",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "50kNb"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9176406,
+          43.6405625
+        ]
+      },
+      "properties": {
+        "nom": "Ferme Notre-Dame de Beauregard",
+        "type": "Orphelinat/Centre de redressement pour mineurs en difficulté",
+        "dirigé par": "Father Clovis Beauregard and Therese St. Jean",
+        "date": "1947-1977",
+        "notes": " Initialement installée à St. Catharines, la ferme a été transférée à Georgetown, où elle a accueilli des garçons orphelins provenant du Québec. L’emplacement exact reste floue.",
+        "statut": "Le terrain, auparavant utilisé à des fins agricoles et religieuses, a été transformé en lotissements résidentiels",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "d6zkm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.903316,
+          45.2791585
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat Agricole Saint-Joseph de Waterville",
+        "type": "Orphelinat/Centre de redressement pour mineurs en difficulté",
+        "dirigé par": "Government of Quebec (le ministère de la Famille et du Bien-Etre social) /  les Frères de Sainte-Croix ",
+        "date": "1942-1980",
+        "notes": "L'orphelinat devient le Collège Val-Estrie, dirigé par les mêmes Frères entre 1960 et 1968, puis le Centre Val-Estrie/Val-Estrie Centre Psycho-Éducatif  vouée aux enfants dits caractériels entre 1968 et 1983. ",
+        "statut": "Une partie du site est occupée par la Base de Plein-Air Val-Estrie, à partir de 1983.  L'institution ferme ses portes au cours des années 1980.  Depuis l'année 2000, l’école des Enfants-de-la-Terre occupe l'édifice de la résidence des Frères.",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "w8BNq"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1494186,
+          47.6542415
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat apostolique",
+        "type": "Orphelinat",
+        "dirigé par": "Soeurs Antoniennes de Marie de Chicoutimi",
+        "date": "1917-1964",
+        "notes": "",
+        "statut": "Aujourd'hui le Centre Communautaire de Charlevoix",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "k4sgk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4869302,
+          45.510857
+        ]
+      },
+      "properties": {
+        "nom": "Maison familiale Saint-Joseph",
+        "type": "Orphelinat",
+        "dirigé par": "Dominicaines de Sainte-Catherine-de-Sienne",
+        "date": "1951-1960",
+        "notes": "",
+        "statut": "Aujourd'hui un centre communautaire le Centre Jeunesse de la Montérégie",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "FYY9K"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6994228,
+          45.5538643
+        ]
+      },
+      "properties": {
+        "nom": "Maison Sainte-Domitille/Monastère du Bon pasteur",
+        "type": "Centre de redressement pour mineurs en difficulté",
+        "dirigé par": "Soeurs du Bon-Pasteur",
+        "date": "1930-1995",
+        "notes": "",
+        "statut": "Aujourd'hui le Centre jeunesse de Laval",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "M2KnE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7486751,
+          45.4218996
+        ]
+      },
+      "properties": {
+        "nom": "Ville-Joie Sainte-Thérèse",
+        "type": "Orphelinat",
+        "dirigé par": "Dominicaines du Rosaire",
+        "date": "1941-1972",
+        "notes": "Le bâtiment a été classé monument historique en 1975 par le ministère des Affaires culturelles du Québec.",
+        "statut": "Aujourd'hui le Conservatoire de musique de Gatineau",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "ytu44"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9151859,
+          45.4100809
+        ]
+      },
+      "properties": {
+        "nom": "Centre-Notre-Dame-de-l'Enfant",
+        "type": "Centre de redressement pour mineurs en difficulté",
+        "dirigé par": "Dominicaines des Saints-Anges Gardiens",
+        "date": "1965-1971",
+        "notes": "« Pouponnière » du Centre Notre-Dame de l’Enfant, Sherbrooke, de 1943 à 1966",
+        "statut": "Aujourd'hui un centre de réadaptation pour les personnes présentant une déficience intellectuelle. Le bâtiment fait maintenant partie du réseau du CIUSS de l’Estrie",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "fjOUz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.5299,
+          48.45003
+        ]
+      },
+      "properties": {
+        "nom": "Institut Mgr Courchesne (Hospice de Rimouski)",
+        "type": "Hospice/Orphelinat",
+        "dirigé par": "Soeurs de la Charité de Québec",
+        "date": "1876-1976",
+        "notes": "",
+        "statut": "Aujourd'hui l'Institut maritime du Québec",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "oYirW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5576538,
+          46.3491907
+        ]
+      },
+      "properties": {
+        "nom": "Ville-Joie Saint-Dominique",
+        "type": "Orphelinat",
+        "dirigé par": "Soeurs Dominicaines du Rosaire",
+        "date": "1931-1992",
+        "notes": "",
+        "statut": "Une partie du site est occupée par le Centre de protection et de réadaptation pour les jeunes et les mères en difficulté d'adaptation de Trois-Rivières (CIUSS de la Mauricie-et-du-Centre-du-Québec) et l'autre une résidence pour personnes âgées",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "jobz9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5590852,
+          46.3449053
+        ]
+      },
+      "properties": {
+        "nom": "Patronage Saint-Charles",
+        "type": "Orphelinat /École industrielle",
+        "dirigé par": "Soeurs Dominicaines du Rosaire/ Frères de Saint-Vincent-de-Paul",
+        "date": "1937-1970",
+        "notes": "Des enfants y ont été transférés depuis Orphelinat St Dominique",
+        "statut": "Aujourd'hui une résidence privée pour aînés",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "zOoSm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6264117,
+          46.2312922
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat-Hôpital du Christ-Roi",
+        "type": "Orphelinat/Hôpital/Crèche",
+        "dirigé par": "Soeurs de la Charité de Nicolet/Soeurs Grises",
+        "date": "1932-1973",
+        "notes": "Crèche de l’Orphelinat Christ-Roi, de 1932 à 1964",
+        "statut": "En 1973, l’État a pris en charge la gestion de l’hôpital, mettant fin à la présence active des Sœurs Grises à cet établissement. Aujourd’hui, l’institution existe toujours sous le nom de  Centre Multiservices de Santé et de Services Sociaux Christ-Roi, et elle fait partie du CIUSSS de la Mauricie–Centre‑du‑Québec",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "3SRWk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1589149,
+          45.4350299
+        ]
+      },
+      "properties": {
+        "nom": "Hospice Sainte-Croix de Marieville",
+        "type": "Hospice/Orphelinat",
+        "dirigé par": "Soeurs Grises de la Charité de Saint-Hyacinthe",
+        "date": "1865-1972",
+        "notes": "",
+        "statut": "En 1972, l’institution est cédée au gouvernement du Québec. Aujourd'hui le CHSLD Sainte‑Croix.",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "m9QTC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0674873,
+          48.4105916
+        ]
+      },
+      "properties": {
+        "nom": "l'Institut Saint-Georges ",
+        "type": "Centre de redressement pour mineurs en difficulté",
+        "dirigé par": "Pères Maristes",
+        "date": "1961-(?)",
+        "notes": "",
+        "statut": "Toujours un centre de redressement pour mineurs en difficulté. Le Centre Jeunesse du Saguenay Lac Saint Jean ",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "KvTEU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7293906,
+          46.8763125
+        ]
+      },
+      "properties": {
+        "nom": "Institut Saint-Jean-Baptiste de Lac-Sergent",
+        "type": "Orphelinat",
+        "dirigé par": "Government of Quebec/ Frères Notre-Dame de la Miséricorde",
+        "date": "1921-1976",
+        "notes": "",
+        "statut": "Le bâtiment est vide depuis  2009",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "CSnv7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3404531,
+          45.5447125
+        ]
+      },
+      "properties": {
+        "nom": "Hospice du Sacré-Coeur",
+        "type": "École/Pensionnat",
+        "dirigé par": "Frères de Saint-Gabriel",
+        "date": "1924-1976",
+        "notes": "",
+        "statut": "Le bâtiment a été transféré au government of Quebec. Démoli en 1991.",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "2Fs8S"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2961986,
+          46.8932799
+        ]
+      },
+      "properties": {
+        "nom": "Mont Saint-Aubert",
+        "type": "Centre médico-pédagogique",
+        "dirigé par": "Frères hospitaliers de Saint-Jean-de-Dieu",
+        "date": "1966 -1990 ",
+        "notes": " Pour les jeunes garçons vivant avec une déficience mentale",
+        "statut": "Le bâtiment a été démoli en 2009. Aujourd'hui c'est le centre de réadaptation en déficience intellectuelle en troubles du spectre de l'autisme des Santolines",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "hBjKQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2914083,
+          45.4506397
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat St-Joseph de Chambly/Hôpital Saint-Joseph-de-Chambly",
+        "type": "Orphelinat/Hôpital",
+        "dirigé par": "Soeurs Grises",
+        "date": "1869-1970",
+        "notes": "",
+        "statut": " Un incendie majeur a détruit l'ancien hospice le 4 avril 1965. Une nouvelle « Résidence Saint-Joseph » a été achevée au printemps 1970, devenant le Centre d'hébergement Saint-Joseph CHSLD.En janvier 2025, les derniers résidents du CHSLD ont été transférés, et le bâtiment est maintenant à la recherche d'une nouvelle vocation.",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "FhmCp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.188229,
+          46.7994809
+        ]
+      },
+      "properties": {
+        "nom": "Hospice ou Institut Saint-Joseph-de-la-Délivrance",
+        "type": "Hospice/ École industrielle",
+        "dirigé par": "",
+        "date": "1879-2007",
+        "notes": "",
+        "statut": "Un incendie majeur a détruit l'ancien  bâtiment en 1964, le nouveau Foyer Saint-Joseph de Lévis s’élève sur les ruines d’une partie de l’ancien institut en 1971. En 1989, le Foyer Saint-Joseph de Lévis devient officiellement le Centre d’accueil Saint-Joseph de Lévis Inc., une institution privée conventionnée, propriété des Sœurs de la Charité de Québec jusqu’en octobre 2007. Depuis, Desjardins Sécurité financière est le propriétaire du Centre d’accueil Saint-Joseph de Lévis (CHSLD).",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "xpiEA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0062733,
+          45.7831337
+        ]
+      },
+      "properties": {
+        "nom": "Hospice Saint-Jérôme/le Foyer d’Youville",
+        "type": "Orphelinat/Hospice",
+        "dirigé par": "Sœurs Grises d’Ottawa",
+        "date": "1932-1973",
+        "notes": "",
+        "statut": "Repris par le Centre intégré de santé et de services sociaux (CISSS) des Laurentides, le bâtiment est devenu un CHSLD puis un centre régional en réadaptation physique. ",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "tKds0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2211303,
+          48.5064163
+        ]
+      },
+      "properties": {
+        "nom": "Institut Lachenaie",
+        "type": "Orphelinat/Centre de redressement pour mineurs en difficulté",
+        "dirigé par": "Sœurs de la Charité de Québec",
+        "date": "1961-1986",
+        "notes": "",
+        "statut": "Aujourd'hui le Centre intégré universitaire de santé et de services sociaux (CIUSSS) du Saguenay–Lac-Saint-Jean",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "5IqY6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2719882,
+          46.7890412
+        ]
+      },
+      "properties": {
+        "nom": "Oeuvre des Petits Vendeurs de journaux/Institut Don-Bosco/Institut Saint-Jean Bosco",
+        "type": "Orphelinat/École industrielle",
+        "dirigé par": "Frères de St-\nVincent de Paul/les Frères des écoles chrétiennes",
+        "date": "1931-1966",
+        "notes": "Foyer pour enfants et adolescents délinquants.Seuls les orphelins ayant été internés jusqu’au 1er octobre 1959 ou à partir du 1er septembre 1961 sont pris en compte pour la compensation financière.",
+        "statut": "Le bâtiment est devenu une résidence pour aînés, gérée par un OBNL, Jardins Jean-Bosco inc.",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "epsyo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.218123,
+          46.8076593
+        ]
+      },
+      "properties": {
+        "nom": "Maison Sainte-Madeleine/Asile du Bon-Pasteur",
+        "type": "Centre de redressement pour mineurs en difficulté",
+        "dirigé par": "Soeurs du Bon-Pasteur",
+        "date": "1850-1975",
+        "notes": "",
+        "statut": "Classé immeuble patrimoniale, bâtiment abrite la Chapelle des Soeurs du Bon-Pasteur et la cooperative vie de Quartier. ",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "GSzAp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0401776,
+          48.4212535
+        ]
+      },
+      "properties": {
+        "nom": "L'Orphelinat de l'Immaculée Conception",
+        "type": "Orphelinat",
+        "dirigé par": "Petites Franciscaines de Marie",
+        "date": "1931-1968",
+        "notes": "Accusations de cruauté, d’agression sexuelle et d’homicide. Crèche de L’Enfant-Jésus, Chicoutimi (crèche située entre les murs de l’Orphelinat de l’Immaculée-Conception) de 1931 à 1968",
+        "statut": "Le bâtiment est maintenant occupé par des bureaux gouvernementaux et commerciaux.",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "Ldtyw"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6776234,
+          45.4439648
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat Maison Saint-Joseph de Hull Ottawa/ St-Joseph's Orphan Home/Mont St-Joseph",
+        "type": "Orphelinat",
+        "dirigé par": "Sœurs Grises d’Ottawa",
+        "date": "1865-1970",
+        "notes": "",
+        "statut": "Le bâtiment est devenu plus tard le foyer de l’Enfance, puis la résidence Saint-Joseph pour les Sœurs âgées en 1968.  Il a été fermé et démoli en 1970 et remplacé par des maisons.",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "gIluv"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5387573,
+          45.5497949
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat Providence Sainte-Elizabeth",
+        "type": "Crèche / Hospice / Orphelinat",
+        "dirigé par": "Soeurs de la Providence",
+        "date": "1894-1970",
+        "notes": "Crèche et école primaire en activité de 1895 à 1906, puis de nouveau de 1929 jusqu’à sa fermeture.\n\nEn 1905, les Sœurs de la Providence ont également commencé à s’occuper des personnes âgées (jusqu’en 1954) et ont offert l’enseignement aux jeunes filles (jusqu’en 1967).",
+        "statut": "Aujourd’hui, une halte-garderie.",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "kbUnR"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56118,
+          45.5142334
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat Saint-Alexis",
+        "type": "Orphelinat ",
+        "dirigé par": "Soeurs de la Providence",
+        "date": "1853-1963",
+        "notes": "",
+        "statut": "Démoli. Le site fait maintenant partie de l’UQAM – Pavillon Judith-Jasmin.",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "CLHJY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6146531,
+          45.5440099
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat Saint-Arsène/Patronage Jean-Leon le Prévost",
+        "type": "Orphelinat ",
+        "dirigé par": "Frères Saint-Gabriel/Frères de St- Vincent de Paul",
+        "date": "1906-1976",
+        "notes": "",
+        "statut": "La partie ancienne de cet orphelinat fut détruite par les flammes dans les années 70 alors que la nouvelle aile comprenant une piscine était épargnée par l'incendie. Les restes de l'immeuble ainsi que le terrain furent achetés par la suite par la ville de Montréal pour 3 millions. Le tout fait maintenant partie du Patro Villeray  (le Prévost).\n\n",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "5EqYu"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1086975,
+          46.0461887
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat-Hôpital de Sorel",
+        "type": "Orphelinat/Hôpital",
+        "dirigé par": "Soeurs Grises de la Charité de Saint-Hyacinthe",
+        "date": "1862-1962",
+        "notes": "L'édifice est démoli et re-construit en 1947. L'orphelinat disparaît pour sa part en 1977. ",
+        "statut": "En 2008, l'immeuble devient le Centre d'hébergement (CHSLD) Élisabeth-Lafrance. Il fait partie du réseau du Centre de santé et services sociaux (CUISS) Pierre-De Saurel.",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "D896v"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9733565,
+          45.285787
+        ]
+      },
+      "properties": {
+        "nom": "Couvent de Farnham/Hospice/Hôpital Sainte-Élisabeth",
+        "type": "Orphelinat/Hôpital",
+        "dirigé par": "Soeurs Grises de la Charité de Saint-Hyacinthe",
+        "date": "1873-1973",
+        "notes": "",
+        "statut": "Démoli en 1973. Aujourd'hui le CLSC De Farnham",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "9dWHL"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2188651,
+          46.8065523
+        ]
+      },
+      "properties": {
+        "nom": "Patronage Sainte-Geneviève",
+        "type": "Orphelinat/Pensionnat ",
+        "dirigé par": "Soeurs du Bon-Pasteur",
+        "date": "1950-1968",
+        "notes": "Institut familial pour jeunes femmes. Filles transferées depuis l'Hospice St-Charles.",
+        "statut": " le bâtiment a été recyclé à des fins résidentielles",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "C47Os"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.572361,
+          45.4915586
+        ]
+      },
+      "properties": {
+        "nom": "Couvent Bethléem",
+        "type": "Orphelinat/Hospice",
+        "dirigé par": "Sœurs Grises",
+        "date": "1868-1970",
+        "notes": "",
+        "statut": "Le bâtiment a été recyclé à des fins résidentielles",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "4dsx0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6656362,
+          46.6297018
+        ]
+      },
+      "properties": {
+        "nom": "École du Sacré-Coeur/Orphelinat du Sacré-Cœur",
+        "type": "Orphelinat",
+        "dirigé par": "Soeurs de Notre-Darne du Perpétuel Secours",
+        "date": "1942-1957",
+        "notes": "Le bâtiment devient l'école normale pour filles de 1939 à 1942, l'école du Sacré-Coeur de 1942 à 1957 et l'école des arts familiaux en 1958. Le bâtiment a déjà été relié par un tunnel à l'ensemble conventuel des Soeurs de Notre-Dame du Perpétuel Secours",
+        "statut": "Le bâtiment abrite maintenant une résidence pour personnes âgées.",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "L3Dhy"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6019174,
+          45.5597867
+        ]
+      },
+      "properties": {
+        "nom": "École Maternelle de la Nativité/Crèche-hôpital de la Nativité",
+        "type": "Orphelinat / maternité  pour mères célibataires",
+        "dirigé par": "Soeurs de la Miséricorde",
+        "date": "1943-1973",
+        "notes": "Écolematernelle spécialisée pour réhabiliter les sujets «déficients» mais «rééducables»",
+        "statut": "Aujourd'hui le CHSLD Joseph-François-Perrault",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "Zq6pH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5018171,
+          46.5517033
+        ]
+      },
+      "properties": {
+        "nom": "Foyer Sainte-Anne (Hospice Sainte-Anne)",
+        "type": "Orphelinat/Hôpital",
+        "dirigé par": "Soeurs Grises d'Ottawa",
+        "date": "1931-1974",
+        "notes": "",
+        "statut": "Aujourd'hui un centre culturelle Centre Jeunesse Des Laurentides",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "loqPD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88079,
+          45.3095297
+        ]
+      },
+      "properties": {
+        "nom": "Foyer Saint-Joseph de Beauharnois",
+        "type": "Orphelinat/Crèche",
+        "dirigé par": "Soeurs Grises ",
+        "date": "1861-1977",
+        "notes": "A accueilli des orphelins de 1861 à 1967. Localisation imprécise.",
+        "statut": "L'édifice est démoli en 1991",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "uOsyY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1395764,
+          45.2663569
+        ]
+      },
+      "properties": {
+        "nom": "Hospice de la Providence Saint-Aubin (Providence Saint-Aubin)",
+        "type": "Orphelinat/Crèche",
+        "dirigé par": "Soeurs de la Providence",
+        "date": "1944- 1966",
+        "notes": "",
+        "statut": "L'édifice est démoli",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "mqgpy"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2509016,
+          46.7978882
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat Saint-Vincent–de-Paul",
+        "type": "Orphelinat/Crèche",
+        "dirigé par": "Soeurs du Bon-Pasteur",
+        "date": "1901-1972",
+        "notes": "L'oeuvre commence en 1901 pour recueillir spécifiquement les enfants « illégitimes », pour la plupart ceux des « filles-mères » qui donnent naissance à leur maternité (l’Hospice puis l’Hôpital de la Miséricorde et  la Crèche de l’Hôpital Hôtel-Dieu du Sacré-Cœur de Jésus). Entre 1901 et 1972, plus de 38,000 bébés auront transité par cet orphelinat.",
+        "statut": "En 1973, l’ancien bâtiment de l’Hôpital de la Miséricorde, de la Crèche Saint-Vincent-de-Paul et de l’École de puériculture est devenu la Résidence Mgr-LeMay. Il a alors accueilli des religieuses âgées de la congrégation ainsi que les dernières employées domestiques retraitées. Le 30 juin 2008, la résidence a été cédée à un promoteur immobilier en vue de la réalisation du projet Cité Verte ",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "4gBpw"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3589987,
+          46.7405625
+        ]
+      },
+      "properties": {
+        "nom": "Hospice Saint-Charles",
+        "type": "Centre de redressement pour mineurs en difficulté",
+        "dirigé par": "Soeurs du Bon-Pasteur",
+        "date": "1870-1950",
+        "notes": "l’Hospice Saint-Charles de Québec abrita une école de réforme (1870-1921) et une école d’industrie (1884-1950)",
+        "statut": "Aujourd’hui, une école pour enfants ayant des déficiences motrices : École Madeleine-Bergeron",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "1GycQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5888496,
+          45.4788182
+        ]
+      },
+      "properties": {
+        "nom": "Hospice Saint-Henri (Asile Saint-Henri; Foyer Saint-Henri)",
+        "type": "Hospice/Orphelinat",
+        "dirigé par": "Soeurs Grises",
+        "date": "1885-1954",
+        "notes": "",
+        "statut": "L'édifice est démoli en 1967",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "JV4Nh"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6830083,
+          45.4908563
+        ]
+      },
+      "properties": {
+        "nom": "Crèche d’Youville",
+        "type": "Crèche",
+        "dirigé par": "Soeurs Grises",
+        "date": "1925-1972",
+        "notes": "",
+        "statut": "L'édifice est démoli entre démolie entre 1992 et 1994.",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "DfoHI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6842121,
+          45.4918594
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat (École) Notre-Dame de Liesse",
+        "type": "Orphelinat",
+        "dirigé par": "Soeurs Grises",
+        "date": "1914-1972",
+        "notes": "Des orphelins y ont été transférés depuis l’Hôpital général Saint-Mathieu. En 1925, l’établissement a fusionné avec la Crèche d’Youville",
+        "statut": "En 1989, le bâtiment a été converti en bureaux. C'est maintenant une école. ",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "BMG5M"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2524985,
+          45.5259041
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat agricole Les Cèdres/l’Orphelinat agricole Tessier/ Ferme Tessier",
+        "type": "Orphelinat agricole",
+        "dirigé par": "Frères du Sacré-Coeur",
+        "date": "1937-1964",
+        "notes": "",
+        "statut": "Racheté en 2014 et réaménagé, le site est devenu la Ferme Les Cèdres, une ferme éducative",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "9rtOb"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9167951,
+          46.0403142
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat Hôtel-Dieu/Orphelinat d’Arthabaska",
+        "type": "Orphelinat/Hôpital",
+        "dirigé par": "Soeurs Hospìtalières de Saint-Joseph / Soeurs de l'Hôtel-Dieu",
+        "date": "1885-1988",
+        "notes": "L' orphelinat est construit en 1923.",
+        "statut": "L'Hôtel-Dieu d'Arthabaska est toujours en activité",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "fhw87"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9497921,
+          45.6260904
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat de l’Hôtel-Dieu de Saint-Hyacinthe",
+        "type": "Orphelinat/Crèche",
+        "dirigé par": "Soeurs Grises",
+        "date": "1893-1966",
+        "notes": "",
+        "statut": "Transféré au gouvernement du Québec. Aujourd’hui, le Centre d’hébergement de l’Hôtel-Dieu-de-Saint-Hyacinthe (CHSLD).",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "Wn0hN"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9904837,
+          48.238528
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat Notre-Dame-du-Sourire",
+        "type": "Orphelinat",
+        "dirigé par": "Sœurs de Notre-Dame-Auxiliatrice",
+        "date": "1938-1980",
+        "notes": "",
+        "statut": "Le bâtiment appartient toujours aux Sœurs de Notre-Dame-Auxiliatrice",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "oBSOB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0584341,
+          45.7225155
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat Saint-André d’Avelin/Providence du Sacré-Cœur",
+        "type": "Orphelinat/Couvent",
+        "dirigé par": "Soeurs de la Providence",
+        "date": "1891-1973",
+        "notes": "",
+        "statut": "Transféré au au ministère des Affaires sociales en 1973. Aujourd’hui, les bureaux d’une école de réforme : les Centres jeunesse de l’Outaouais",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "hLBSG"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2551361,
+          45.3049584
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat Sainte Thérèse de l'Enfant Jésus (Centre familial Thérèse Martin, à partir de 1965)",
+        "type": "Orphelinat",
+        "dirigé par": "Soeurs Franciscaines de Marie",
+        "date": "1925-1977",
+        "notes": "L'orphelinat déménage en 1965 au 150 Bd Saint-Luc, Saint-Jean-sur-Richelieu, QC J3A 1G2",
+        "statut": "L'édifice est démoli.",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "dueV2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4407114,
+          46.0230349
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat Saint-Eusèbe/Hôpital Saint-Eusèbe/Providence Saint-Charles",
+        "type": "Orphelinat/Hôpital",
+        "dirigé par": "Soeurs de la Providence",
+        "date": "1855-1980                         ",
+        "notes": "",
+        "statut": "Transféré au gouvernement du Québec. Aujourd’hui, le Centre d’hébergement de Saint-Eusèbe (CHSLD)",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "xgAGe"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2097344,
+          48.7411375
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat Saint-François Régis/L'orphelinat agricole de Vauvert",
+        "type": "Orphelinat agricole",
+        "dirigé par": "Frères Saint-François-Régis",
+        "date": "1909-1938",
+        "notes": "En 1938,  les frères ouvriers ont déménagé à Saint-Louis-de-Bagot, puis la communauté a fusionné le 21 novembre 1959 à celle des Frères maristes.  Tous les établissements des Frères à Vauvert ont été définitivement fermés, démolis ou vendus",
+        "statut": "L'édifice est démoli",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "G4moj"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.997194,
+          48.358533
+        ]
+      },
+      "properties": {
+        "nom": "L'Orphelinat Agricole Saint-François-Régis / Orphelinat Saint-Joseph-du-Lac",
+        "type": "Orphelinat agricole",
+        "dirigé par": "Frères Saint-François-Régis",
+        "date": "1946-1959",
+        "notes": "L'établissement reçoit les jeunes de plus de 12 ans. Il est associé avec l’Orphelinat de l’Immaculée des sous la direction des Petites Franciscaines de Marie à Chicoutimi et l'Institut Saint-Georges dirigé par les Frères Maristes . A sa fermeture les jeunes seront transférés là bas.",
+        "statut": "L'édifice est démoli. Emplacement imprécis",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "8C7tJ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4542053,
+          46.0463265
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat Saint-Georges",
+        "type": "Orphelinat agricole",
+        "dirigé par": "Clercs de Saint-Viateur",
+        "date": "1938-1965",
+        "notes": "En août 1966, le ministère de la Santé a acquis l’orphelinat pour y établir un centre de psychiatrie infantile, en lien avec l’Hôpital Saint-Charles de Joliette qui à opéré jusqu'en 2004.",
+        "statut": "En 2012 l’édifice qui était abandonné a été incendié ",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "etS47"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4412179,
+          46.0183737
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat Saint-Joseph / Providence Saint-Joseph/Ville-Joie Providence",
+        "type": "Orphelinat",
+        "dirigé par": "Soeurs de la Providence",
+        "date": "1955-1981",
+        "notes": "Le bâtiment a été construit dans les années 1950 pour accueillir les orphelins qui résidaient auparavant à l'orphelinat/hôpital Saint-Eusèbe.",
+        "statut": "Aujourd’hui, le bâtiment abrite un centre de réadaptation pour jeunes, le Centre jeunesse de Lanaudière.",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "y0GSn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8826347,
+          46.3113259
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat Saint-Joseph de Beauce/Couvent St-Joseph de Beauce",
+        "type": "Orphelinat",
+        "dirigé par": "Soeurs de la Charité de Québec",
+        "date": "1875-1974",
+        "notes": "",
+        "statut": "Le couvent et l’orphelinat sont occupés par des associations culturelles, dont le musée Marius-Barbeau.",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "GemOT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5826697,
+          45.5708281
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat Saint-Joseph de Montréal / Orphelinat Italien Saint-Joseph de Montréal / Orphelinat Catholique Saint-Joseph de Montréal",
+        "type": "Orphelinat",
+        "dirigé par": "Missionnaires de la Consolata",
+        "date": "1921-1975",
+        "notes": "",
+        "statut": "Aujourd’hui, le bâtiment abrite des bureaux administratifs du Centre intégré universitaire de santé et de services sociaux du (CUISS) Centre-Sud-de-l’Île-de-Montréal.",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "7AxEc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5458476,
+          46.3474943
+        ]
+      },
+      "properties": {
+        "nom": "Orphelinat-Hôpital Saint-Joseph",
+        "type": "Orphelinat/Hôpital",
+        "dirigé par": "Soeurs de la Providence",
+        "date": "1868-1997",
+        "notes": "",
+        "statut": "Le bâtiment fait aujourd’hui partie du Centre multiservices de santé et de services sociaux Saint-Joseph",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "UqTQn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6618906,
+          45.5698375
+        ]
+      },
+      "properties": {
+        "nom": "Crèche Saint-Paul",
+        "type": "Orphelinat/Crèche",
+        "dirigé par": "Soeurs de la Miséricorde",
+        "date": "1911-1954",
+        "notes": "",
+        "statut": "L'édifice est démoli",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "RPs77"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.223413,
+          46.8019944
+        ]
+      },
+      "properties": {
+        "nom": "Ladies’ Protestant Home",
+        "type": "Hospice",
+        "dirigé par": "Ladies Protestant Home Foundation",
+        "date": "1862-1990",
+        "notes": "",
+        "statut": "Le bâtiment est protégé sous la juridiction de la Commission d’urbanisme et de conservation de Québec (CUCQ).",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "QGaOM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1877623,
+          46.857084
+        ]
+      },
+      "properties": {
+        "nom": "Maison du Fargy",
+        "type": "Orphelinat",
+        "dirigé par": "la Congrégation de Notre‑Dame des Petits Soeurs de la Compassion/ Congrégation de Notre‑Dame des Champs",
+        "date": "1939-(?)",
+        "notes": "Institutition visée par une action collective en 2022 pour agression sexuelle.",
+        "statut": "Aujourd’hui, le Centre d’hébergement du Fargy (CHSLD).",
+        "source": "Programme national de réconciliation avec les orphelins et orphelines de Duplessis (PNROOD-2, 2007)"
+      },
+      "id": "exiQa"
+    }
+  ]
+}
